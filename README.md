@@ -1,7 +1,7 @@
 # void-setup
 My Void Linux Setup files
  
-*Network Manager
+*Network Manager*
 
 *Void Multilib + Nonfree + Multilib NonFree repos*
 

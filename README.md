@@ -1,10 +1,5 @@
 # void-setup
 My Void Linux Setup files
-
-/ )( \ /  \(  )(    \
-\ \/ /(  O ))(  ) D (
- \  /  \  /(  )(    /
- 
  
 * Network Manager *
 

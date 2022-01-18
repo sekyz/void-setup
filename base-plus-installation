@@ -5,6 +5,8 @@ sudo ln -s /etc/sv/{dbus,elogind,polkitd}
 sudo xbps-install cmake gcc wget
 sudo xbps-install links # TUI Browser
 
+sudo xbps-install linux-headers # Optional
+
 # -----------------------------
 
 # GNOME
@@ -119,6 +121,18 @@ xi inkscape krita gimp # Graphic Design Apps
 
 # Finish with GDM Activation
 # sudo ln -s /etc/sv/gdm /var/service
+
+# -----------------------------
+
+#######   BONUS    ########
+
+# Pfetch
+
+# xdg-user-dirs-update
+# cd Downloads
+# git clone https://github.com/dylanaraps/pfetch
+# cd pfetch
+# sudo make install
 
 # -----------------------------
 GREEN='\033[1;32m'

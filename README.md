@@ -24,4 +24,4 @@ Graphic design apps
 
 
 _You can see some files about my Void Linux installation
-if you wanna see or take somethings, you can do ^^
+if you wanna see or take somethings, you can do ^^_

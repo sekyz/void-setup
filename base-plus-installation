@@ -1,5 +1,6 @@
 # Some base packages and activations
-sudo xbps-install -Suv elogind polkit
+
+sudo xbps-install -Suv dbus elogind polkit
 sudo ln -s /etc/sv/{dbus,elogind,polkitd}
 sudo xbps-install cmake gcc wget
 sudo xbps-install links # TUI Browser

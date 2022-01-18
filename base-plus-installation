@@ -137,4 +137,4 @@ xi inkscape krita gimp # Graphic Design Apps
 # -----------------------------
 GREEN='\033[1;32m'
 
-echo -e "${GREEN}Base install has finished. Please active lightdm (sudo ln -s /etc/sv/lightdm /var/service)"
+echo -e "${GREEN}Base install has finished. Please reboot and active lightdm (sudo ln -s /etc/sv/lightdm /var/service)"

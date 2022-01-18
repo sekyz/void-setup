@@ -1,11 +1,12 @@
 # void-setup
 My Void Linux Setup files
 
-\ \ / / / _ \|_ _| |   \  / __|| __||_   _|| | | || _ \  
- \ V / | (_) || |  | |) | \__ \| _|   | |  | |_| ||  _/  
-  \_/   \___/|___| |___/  |___/|___|  |_|   \___/ |_|    
-                                                         
-
+ _  _   __  __  ____ 
+/ )( \ /  \(  )(    \
+\ \/ /(  O ))(  ) D (
+ \__/  \__/(__)(____/
+ 
+ 
 * Network Manager *
 
 *Void Multilib + Nonfree + Multilib NonFree repos*

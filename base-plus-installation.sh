@@ -82,6 +82,9 @@ sudo xi v4l-utils v4l2loopback obs # OBS Studio with virtual camera
 # xi firefox # Firefox Web Browser (also there s ungoogled option at the bottom)
 
 sudo flatpak install com.discordapp.Discord # Discord app from Flathub
+
+flatpak override com.discordapp.Discord --filesystem=path_to_allow_access # App can access all folders
+
 # sudo flatpak install org.telegram # Telegram Desktop app from Flathub
 # sudo flatpak install gimp inkscape krita # Graphic design apps from Flathub
 
